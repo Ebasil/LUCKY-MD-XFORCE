@@ -1,5 +1,5 @@
 {
-  "bot-name": "LUCKY-MD-XFORCE MULT DEVICE",
+  "bot-name": "E.Basil bot",
   "description": "Lucky Whatsapp device bot made by FrediEzra to help Whatsapp users to enjoy while helping...",
   "logo": "https://files.catbox.moe/uw4l17.jpeg",
   "keywords": ["Fredi-Ezra", "Lucky-Md", "mdtech"],
@@ -71,7 +71,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "⁠LUCKY-MD-XFORCE",
+      "value": "⁠E.Basil bot",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -91,12 +91,12 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "LUCKY-XFORCE••<=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUlYOXlPNmFTQkV3Y3pMTWxiMHFzU0tYSmh5UHBlRFFvc0pxWXdrc2dWdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUFVBQlNQdmovRFM0SllJQnR2aWJIekpwSDhEUm51b1E5M0xuYkR1Tk9Gbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpSitPbFdYYURUS1RPeG9KQkp4SldCb0pFWDU5cGNKTHdYZVVYMlh3YzBrPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnaVRZRU9CYWNWeC9DMWlqQ0Q4MkFEbmwxZ1MwTVhZNUtZUkJST1JzcWpRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVDV1FZc2dsbjRuKzF2SGk5NWxiMDl3cG5Ya2dSZFdLdGc2M2M1RWNPMkE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjdQWkxlanBzZ2ZkcW9zbkcvMHdZNG9kWW9tdDRjNUVTRW1sWDFSeEZ6eFk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0JSL2hRWnV3OGpxYW9PSzJYcnROT3daV3hTakJlcnVsa3UzWmlybVpFRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUWI1dS9WZFo5V0ZKaU5CNWVLM2c2MWlyajIvZnRERkFjWVVFeFlUUmFVND0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitZUUVWdGtuaklPdTFVRVBWWFNlYlYwMGc3YVdER0FjYk1uVHNVZnBBYXZwNEJxdmtza2sxMzNyUHBndGh2WHpkMG81RzB0VXoyRUJNdE15bURpTWdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQsImFkdlNlY3JldEtleSI6IkhoMkI4U3JaY1pnaGJUNWhwdjYvOTBybGQ1SytoczZiaHYxTWc3VDBFZXc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjU0MTE0OTE0MTM5QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjExQTNEMEJEQUMxMUQ3NDM5M0MzOURDODg0OUJENkY5In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTQ4MzU4NDh9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI1NDExNDkxNDEzOUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI2RkI0MDU3MDJEMTI2QTM1MTgyRUNDODU0QzdCMUMzQiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzU0ODM1ODUwfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6ZmFsc2UsImFjY291bnQiOnsiZGV0YWlscyI6IkNLV1J0N2dDRU9mVzRzUUdHQVVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ4RUVsRUdpU0J2WlZHVDRndXVJYnlpd3d2Z0Eyamt6Tmk1RzVaQVhMWmxRPSIsImFjY291bnRTaWduYXR1cmUiOiJHUW9BcGIxdHBPWGpOTStQaFdlT08yOGJlMkNBa3hQZUxtTTQ4NEMveUJ3V2pzZW1XVEk4VWdVNU5WSHZETUhRSndscWVSYkZUa3g1VTlyOUdRc2dDdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiZ2FydkJkK1JQU3JObkxsL2R0bW81SHdYN3A0ZVZNdWttRWt3T3pNWk9DOWZKVlRsVUVYQi9jTnFrUjY0N2lzeUNrMldwbHhLTXhDVzl4VG8wQS91aFE9PSJ9LCJtZSI6eyJpZCI6IjI1NDExNDkxNDEzOToxN0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiLjgIogRS5CYXNpbCDjgIsiLCJsaWQiOiIyNTg5MDU0MjY5NDAwODc6MTdAbGlkIn0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDExNDkxNDEzOToxN0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJjUkJKUkJva2diMlZSaytJTHJpRzhvc01MNEFObzVNell1UnVXUUZ5MlpVIn19XSwicGxhdGZvcm0iOiJzbWJhIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQVVJRFE9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTQ4MzU4MzAsImxhc3RQcm9wSGFzaCI6IjNSOVozOSIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBQzZtIn0=",
       "required": true
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "E.Basil",
       "required": false
     },
     "URL": {
@@ -111,7 +111,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "254114914139",
       "required": false
     },
     "WARN_COUNT": {
